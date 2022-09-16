@@ -13,6 +13,7 @@ int main()
     struct book b[3];
     int i;
     
+    
     for(i=0; i<3; i++)
     {
         printf("Enter details of book #%d\n", i+1);
